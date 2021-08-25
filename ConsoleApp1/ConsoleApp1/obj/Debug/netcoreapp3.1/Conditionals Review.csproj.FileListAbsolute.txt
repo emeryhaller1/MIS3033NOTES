@@ -1,0 +1,13 @@
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.exe
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.deps.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.runtimeconfig.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.runtimeconfig.dev.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.dll
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Conditionals Review.pdb
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.csprojAssemblyReference.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.AssemblyInfoInputs.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.AssemblyInfo.cs
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.csproj.CoreCompileInputs.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.dll
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.pdb
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Conditionals Review.genruntimeconfig.cache

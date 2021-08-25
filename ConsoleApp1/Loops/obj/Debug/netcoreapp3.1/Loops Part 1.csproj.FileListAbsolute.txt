@@ -1,0 +1,13 @@
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.exe
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.deps.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.runtimeconfig.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.runtimeconfig.dev.json
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.dll
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\bin\Debug\netcoreapp3.1\Loops Part 1.pdb
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.csprojAssemblyReference.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.AssemblyInfoInputs.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.AssemblyInfo.cs
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.csproj.CoreCompileInputs.cache
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.dll
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.pdb
+C:\Users\halle\source\repos\MIS3033NOTES\ConsoleApp1\Loops\obj\Debug\netcoreapp3.1\Loops Part 1.genruntimeconfig.cache
