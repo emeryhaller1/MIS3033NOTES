@@ -1,0 +1,12 @@
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.exe
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.deps.json
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.json
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.dev.json
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfoInputs.cache
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfo.cs
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\halle\Source\Repos\MIS3033NOTES\ConsoleApp1\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.genruntimeconfig.cache
