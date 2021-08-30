@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\halle\\source\\repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj": {}
+    "C:\\Users\\halle\\Source\\Repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\halle\\source\\repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj": {
+    "C:\\Users\\halle\\Source\\Repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\halle\\source\\repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj",
+        "projectUniqueName": "C:\\Users\\halle\\Source\\Repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj",
         "projectName": "Loops Part 2",
-        "projectPath": "C:\\Users\\halle\\source\\repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj",
+        "projectPath": "C:\\Users\\halle\\Source\\Repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\Loops Part 2.csproj",
         "packagesPath": "C:\\Users\\halle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\halle\\source\\repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\obj\\",
+        "outputPath": "C:\\Users\\halle\\Source\\Repos\\MIS3033NOTES\\ConsoleApp1\\Loops Part 2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halle\\AppData\\Roaming\\NuGet\\NuGet.Config",
